@@ -1,0 +1,23 @@
+{
+  "name": "mealdb",
+  "version": "1.0.0",
+  "description": "TheMealDB API client for JavaScript",
+  "main": "src/mealdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechampagne/mealdb-js.git"
+  },
+  "keywords": [
+    "api",
+    "mealdb"
+  ],
+  "author": "XXIV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thechampagne/mealdb-js/issues"
+  },
+  "homepage": "https://github.com/thechampagne/mealdb-js#readme"
+}
